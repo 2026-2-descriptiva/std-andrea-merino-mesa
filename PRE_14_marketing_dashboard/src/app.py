@@ -118,6 +118,7 @@ def main():
 
 
 if __name__ == "__main__":
+    #streamlit run PRE_14_marketing_dashboard/src/app.py
     main()
     
     
